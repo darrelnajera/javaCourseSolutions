@@ -14,3 +14,4 @@
 -Rememberthesenumbers.java
 -Repeatingbreakingandremembering.java
 -Starsign.java
+-Sumoflist.java
