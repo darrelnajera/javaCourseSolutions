@@ -1,0 +1,4 @@
+# javaCourseSolutions
+
+-Averageofpositives.java
+-
